@@ -1,0 +1,24 @@
+INFO:root:Insert into tLog and retrieve logID
+INFO:root:Created logID: d08a01ea-3151-4760-9959-9d18507f9cc4
+INFO:root:Retrieving participants informations from the API
+INFO:root:Response status code is 200, connection to API is successful.
+INFO:root:Extracting the profile links information from the nested dictionary.
+INFO:root:Clearing tWakoopaParticipants table before data import.
+INFO:root:Data import starting.
+INFO:root:Insertion 1 with chunk size of 50 rows.
+INFO:root:Insertion 2 with chunk size of 50 rows.
+INFO:root:Insertion 3 with chunk size of 50 rows.
+INFO:root:Insertion 4 with chunk size of 50 rows.
+INFO:root:Insertion 5 with chunk size of 50 rows.
+INFO:root:Insertion 6 with chunk size of 50 rows.
+INFO:root:Insertion 7 with chunk size of 50 rows.
+INFO:root:Insertion 8 with chunk size of 50 rows.
+INFO:root:Insertion 9 with chunk size of 50 rows.
+INFO:root:Insertion 10 with chunk size of 50 rows.
+INFO:root:Total rows inserted: 500
+INFO:root:Log file attached in the email will not be completed as the file is attached and send before the scripts completed.
+INFO:root:Email sent.
+INFO:root:Updating tLog logID: d08a01ea-3151-4760-9959-9d18507f9cc4 with status: 1
+INFO:root:SGTAM log updated.
+INFO:root:Enter finally clause.
+INFO:root:Ensure SQL Alchemy engine is stopped and disposed.
